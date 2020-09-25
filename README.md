@@ -1,4 +1,4 @@
 # Customer-Segmentation
-In this project, I implement the kmeans algorithm using python and build a customer segmentation project in which I used training data sets(income and spend).
-I build 4 and 6 cluster
+In my course curriculum I build this project, I implement the kmeans algorithm using python and build a customer segmentation project in which used training data sets are (income and spend).
+This projects build 4 and 6 clusters and tried to improve the accuracy by placing data points in their nearest cluster
 I take help from the medium website as references
